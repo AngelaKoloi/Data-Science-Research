@@ -66,8 +66,10 @@ graph TD
   - `3_Metabolic_Pathways/` - Network analysis + Causal Inference (YFS & UK Biobank)
   - `4_Causal_Discovery/` - DAG models & Mediation analysis (NESDA)
 - **Additional Projects**
+  - `Media_Mix_Modeling/` Developed marketing attribution models to quantify the impact of various media channels on customer conversion using Bayesian statistical approaches.
   - `Cross_Lagged_Models/` - Cross Lagged model Depression-CVD risk (YFS)
   - `LURIC_ML/` - ML Early CVD prediction (LURIC)
+  - `Synthetic_Data_Generation/`
 ---
 
 ## 🚀 Quick Access  

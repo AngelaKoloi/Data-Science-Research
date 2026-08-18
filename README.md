@@ -1,6 +1,6 @@
 # Portfolio: Dr. Angela Koloi  
 **Medior Data Scientist | Machine Learning, GenAI & Causal AI**  
-📍 Amsterdam, Netherlands · 🔗 [LinkedIn](https://www.linkedin.com/in/angela-koloi-b777381b9/) · 📧 [Contact via Email](mailto:your.email@example.com)
+📍 Amsterdam, Netherlands · 🔗 [LinkedIn](https://www.linkedin.com/in/angela-koloi-b777381b9/) · 📧 [Contact via Email](mailto:angela1koloi@gmail.com)
 
 ---
 

@@ -1,5 +1,5 @@
 # Portfolio  
-**Angela Koloi** | *PhD Candidate*  
+**Angela Koloi, PhD** 
 🔗 [LinkedIn](https://www.linkedin.com/in/angela-koloi-b777381b9/)  
 
 ---

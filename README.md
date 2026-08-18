@@ -5,7 +5,7 @@
 ---
 
 ## 📌 Executive Summary  
-Computational Data Scientist (PhD) specializing in **end-to-end Machine Learning, LLM/GenAI applications, and Causal Inference** on massive datasets (UK Biobank, Lifelines, YFS). Proven track record in designing scalable Python pipelines, deep learning architectures (GANs, VAEs), and explainable AI models for complex real-world data. Experienced in cross-functional collaboration, technical leadership, and production-ready MLOps code standards.
+Computational Data Scientist (PhD) specializing in **end-to-end Machine Learning, LLM/GenAI applications, and Causal Inference** on massive datasets (UK Biobank, Lifelines, YFS). Proven track record in designing scalable Python pipelines, deep learning architectures (GANs, VAEs), and explainable AI models for complex real-world data. Experienced in cross-functional collaboration and production-ready MLOps code standards.
 
 ---
 
